@@ -1,4 +1,0 @@
-Repository.
-  Changes.
-  Edit.
-  TaskBar.
